@@ -1,0 +1,42 @@
+E:\Huy_Hoang\Web Ban Hoa\bin\ApplicationInsights.config
+E:\Huy_Hoang\Web Ban Hoa\bin\Web Ban Hoa.dll.config
+E:\Huy_Hoang\Web Ban Hoa\bin\Web Ban Hoa.dll
+E:\Huy_Hoang\Web Ban Hoa\bin\Web Ban Hoa.pdb
+E:\Huy_Hoang\Web Ban Hoa\bin\Antlr3.Runtime.dll
+E:\Huy_Hoang\Web Ban Hoa\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Huy_Hoang\Web Ban Hoa\bin\Microsoft.AI.DependencyCollector.dll
+E:\Huy_Hoang\Web Ban Hoa\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Huy_Hoang\Web Ban Hoa\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Huy_Hoang\Web Ban Hoa\bin\Microsoft.AI.Web.dll
+E:\Huy_Hoang\Web Ban Hoa\bin\Microsoft.AI.WindowsServer.dll
+E:\Huy_Hoang\Web Ban Hoa\bin\Microsoft.ApplicationInsights.dll
+E:\Huy_Hoang\Web Ban Hoa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Huy_Hoang\Web Ban Hoa\bin\Microsoft.Web.Infrastructure.dll
+E:\Huy_Hoang\Web Ban Hoa\bin\Newtonsoft.Json.dll
+E:\Huy_Hoang\Web Ban Hoa\bin\System.Web.Helpers.dll
+E:\Huy_Hoang\Web Ban Hoa\bin\System.Web.Mvc.dll
+E:\Huy_Hoang\Web Ban Hoa\bin\System.Web.Optimization.dll
+E:\Huy_Hoang\Web Ban Hoa\bin\System.Web.Razor.dll
+E:\Huy_Hoang\Web Ban Hoa\bin\System.Web.WebPages.Deployment.dll
+E:\Huy_Hoang\Web Ban Hoa\bin\System.Web.WebPages.dll
+E:\Huy_Hoang\Web Ban Hoa\bin\System.Web.WebPages.Razor.dll
+E:\Huy_Hoang\Web Ban Hoa\bin\WebGrease.dll
+E:\Huy_Hoang\Web Ban Hoa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Huy_Hoang\Web Ban Hoa\bin\System.Web.Helpers.xml
+E:\Huy_Hoang\Web Ban Hoa\bin\System.Web.Mvc.xml
+E:\Huy_Hoang\Web Ban Hoa\bin\System.Web.Optimization.xml
+E:\Huy_Hoang\Web Ban Hoa\bin\System.Web.Razor.xml
+E:\Huy_Hoang\Web Ban Hoa\bin\System.Web.WebPages.xml
+E:\Huy_Hoang\Web Ban Hoa\bin\System.Web.WebPages.Deployment.xml
+E:\Huy_Hoang\Web Ban Hoa\bin\System.Web.WebPages.Razor.xml
+E:\Huy_Hoang\Web Ban Hoa\bin\Antlr3.Runtime.pdb
+E:\Huy_Hoang\Web Ban Hoa\bin\Newtonsoft.Json.xml
+E:\Huy_Hoang\Web Ban Hoa\bin\Microsoft.ApplicationInsights.xml
+E:\Huy_Hoang\Web Ban Hoa\bin\Microsoft.AI.DependencyCollector.xml
+E:\Huy_Hoang\Web Ban Hoa\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Huy_Hoang\Web Ban Hoa\bin\Microsoft.AI.WindowsServer.xml
+E:\Huy_Hoang\Web Ban Hoa\bin\Microsoft.AI.Web.xml
+E:\Huy_Hoang\Web Ban Hoa\obj\Debug\Web Ban Hoa.csprojResolveAssemblyReference.cache
+E:\Huy_Hoang\Web Ban Hoa\obj\Debug\Web Ban Hoa.csproj.CoreCompileInputs.cache
+E:\Huy_Hoang\Web Ban Hoa\obj\Debug\Web Ban Hoa.dll
+E:\Huy_Hoang\Web Ban Hoa\obj\Debug\Web Ban Hoa.pdb
